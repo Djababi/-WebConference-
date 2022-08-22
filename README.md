@@ -1,2 +1,3 @@
 # -WebConference-
- Aplicação Web para conferência ficticia
+ Aplicação Web para conferência ficticia sobre um projeto
+
